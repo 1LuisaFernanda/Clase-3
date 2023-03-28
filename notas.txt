@@ -1,0 +1,14 @@
+
+
+Estructura
+
+html  
+head
+body
+footer
+
+
+
+Revisar emet para comandos rápidos de html
+
+

@@ -1,0 +1,19 @@
+
+*  {
+    margin: 0;
+    padding: 0;
+}
+
+.grid-4 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%; /* También podemos utilizar la unidad de medida fr llamada fracción */
+}
+
+section{
+    background-color: plum;
+    border: 2px solid purple;
+}
+
+aside{
+    background-color: aquamarine;
+}
