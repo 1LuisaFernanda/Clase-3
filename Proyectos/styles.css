@@ -1,0 +1,47 @@
+* {
+ color: black;
+ margin: 0%;      
+ padding: auto;
+ 
+} 
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 2%;    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;       
+}
+
+
+img {
+    border-radius: 20%;
+}
+
+.S1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;    
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(219, 219, 219);           
+}
+
+input:hover {
+    background-color: rgb(247, 221, 197)
+}
+
+button:hover {
+    background-color: rgb(230, 191, 198);
+}

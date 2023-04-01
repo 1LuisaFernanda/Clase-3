@@ -10,5 +10,8 @@ footer
 
 
 Revisar emet para comandos rápidos de html
+Leer referencias dinámicas
+/* */ Para hacer comentarios dentro del código (invisibles)
 
-
+rem - Es proporcional al primertamaño de fuente encontrado en un nivel superior
+em - Es proporcional al tamaño de fuente 

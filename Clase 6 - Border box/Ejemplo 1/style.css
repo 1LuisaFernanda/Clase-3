@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+
+.contenedor {
+    background: rgb(109, 53, 109);
+    width: 100vw;
+    height: 100vh;
+}
+
+.seccion1 {
+    background: plum;
+    width: 600px;
+    height: 100px;10px
+    font-size: ;
+}
+
+.seccion2 {
+    background: wheat;
+    width: 100%;
+    height: 50%;
+}
+
+.seccion3 {
+    background: skyblue;
+}
+
+.seccion4 {
+    background: yellowgreen;
+    height: 2em;
+}
+
+.luisa {
+    color: whitesmoke;
+    }
+
+.subseccion2 {
+    background: blueviolet;
+    height: 2rem;
+    width: 20rem;
+    font-size: 20px;
+
+}
+
