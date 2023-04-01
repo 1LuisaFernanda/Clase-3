@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.cont1 {
+    width: 300px;
+    height: 200px;
+    padding: 25px;
+    border: 2px solid red;
+}
+
+.cont2 {
+    width: 300px;
+    height: 200px;
+    padding: 25px;
+    border: 2px solid rebeccapurple;
+}
